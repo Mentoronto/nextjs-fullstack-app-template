@@ -1,0 +1,7 @@
+# This is where we set patterns of files and directories where we dont want prettier to format and will be our 
+# automatically generated build and distribution folders
+
+.npm
+.next
+dist
+node_modules
